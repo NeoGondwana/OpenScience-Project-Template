@@ -1,8 +1,12 @@
-## Recreating a dinosaur like Animal 
-This is how to make a dino chicken
+## This is a template for true open source science
+This format applies the advatages of git to scientific methodology, aiming to make it as easy as possible for anyone to reproduce the results and tecnique of any scientific discovery, as well as contribute to improving the methodology of other Results. This platform promotes tinkering and constant modification of processes. 
 
 1. ## <details><summary>Overview of process</summary>
-<p>https://github.com/NeoGondwana/DinoChicken/blob/master/Methods/Overview</p>
+<p>
+  pythonprint)(
+  [Overview of experiment](./Methods/Overview)
+  )
+  </p>
 
 2. ## * [OverView](./recipes/Overview.md)
 https://github.com/NeoGondwana/DinoChicken/blob/master/Equipment%20%26%20Chemicals/List
