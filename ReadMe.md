@@ -3,15 +3,15 @@ This format applies the advatages of git to scientific methodology, aiming to ma
 
 
 
-## <details><summary>Overview of project</summary>
+## <summary>Overview of project</summary>
 <p>
 </p>
-</details>
 
-## <details><summary>Equipment: What you need to do this, And where you can get it</summary>
+
+## <summary>Equipment: What you need to do this, And where you can get it</summary>
 <p>
 </p>
-</details>
+
 
 ## <details><summary>Methods: The procedures </summary>
 <p>
