@@ -2,12 +2,8 @@
 This format applies the advatages of git to scientific methodology, aiming to make it as easy as possible for anyone to reproduce the results and tecnique of any scientific discovery, as well as contribute to improving the methodology of other Results. This platform promotes tinkering and constant modification of processes. 
 
 
-<details><summary>OverView of Experiment</summary>
-<p>
-</p>
-</details>
 
-1.## <details><summary>OverView of Experiment</summary>
+1. ##<details><summary>OverView of Experiment</summary>
 <p>
   OverView
 </p>
