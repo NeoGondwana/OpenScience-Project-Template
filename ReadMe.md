@@ -3,9 +3,9 @@ This format applies the advatages of git to scientific methodology, aiming to ma
 
 
 
-1. ##<details><summary>OverView of Experiment</summary>
+1. ## <details><summary>Overview of Experiment</summary>
 <p>
-  OverView
+Equipment
 </p>
 </details>
 
