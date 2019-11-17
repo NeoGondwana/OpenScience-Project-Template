@@ -3,29 +3,36 @@ This format applies the advatages of git to scientific methodology, aiming to ma
 
 
 
-1. ## <details><summary>Overview of Experiment</summary>
-<p>
-Equipment
-</p>
-</details>
-
-2. ## <details><summary>Equipment: What you need to do this</summary>
-<p>
-Equipment
-</p>
-</details>
-
-3. ##<details><summary>OverView of Experiment</summary>
+## <details><summary>Overview of project</summary>
 <p>
 </p>
 </details>
 
-2. ## * [OverView](./recipes/Overview.md)
-https://github.com/NeoGondwana/DinoChicken/blob/master/Equipment%20%26%20Chemicals/List
-3. ## [Procedure](https://raw.githubusercontent.com/NeoGondwana/DinoChicken/master/Methods/Procedure)
-4. ## [Results](https://github.com/NeoGondwana/DinoChicken/tree/master/Results/Completed%20Projects)
+## <details><summary>Equipment: What you need to do this, And where you can get it</summary>
+<p>
+</p>
+</details>
 
-  [Overview of experiment](./Methods/Overview)
+## <details><summary>Methods: The procedures </summary>
+<p>
+</p>
+</details>
+
+## <details><summary>Results: Completed projects and currently active ones</summary>
+<p>
+</p>
+</details>
+
+## <details><summary>References</summary>
+<p>
+</p>
+</details>
+
+## <details><summary>Wiki: Further reading, and instructions on skills needed </summary>
+<p>
+</p>
+</details>
+
 
 
 
