@@ -3,37 +3,19 @@ This format applies the advatages of git to scientific methodology, aiming to ma
 
 
 
-## <summary>Overview of project</summary>
-<p>
-</p>
+## Overview of project
 
+## Equipment: What you need to do this, And where you can get it
 
-## <summary>Equipment: What you need to do this, And where you can get it</summary>
-<p>
-</p>
+## Methods: The procedures 
 
+## Results: Completed projects and currently active ones
 
-## <details><summary>Methods: The procedures </summary>
-<p>
-</p>
-</details>
+## References: The research this is based on
 
-## <details><summary>Results: Completed projects and currently active ones</summary>
-<p>
-</p>
-</details>
+## Wiki: Further reading, and instructions on skills needed
 
-## <details><summary>References</summary>
-<p>
-</p>
-</details>
-
-## <details><summary>Wiki: Further reading, and instructions on skills needed </summary>
-<p>
-</p>
-</details>
-
-
+###_Export as PDF_
 
 
 **Bold** and _Italic_ and `Code` text
