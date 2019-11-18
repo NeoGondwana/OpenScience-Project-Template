@@ -5,5 +5,5 @@ You can also Link to video explinations contained in the wiki
 
 2. *Chick Embryo Surgery*
 
-3, *Tungsten Needle Making*
+3. *Tungsten Needle Making*
  
