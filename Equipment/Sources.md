@@ -1,0 +1,1 @@
+This is where you list sources for each of the Equipment pieces. If you are doing this project and buy something for a good price,  dont be afraid to add it to here if there hasnt been many sources. It needs constant updating.
