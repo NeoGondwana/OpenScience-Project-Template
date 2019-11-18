@@ -9,7 +9,7 @@ Parts:
 Tools:
 ------
 Hammer
-pipette
+Pipette
 
 
 Chemicals
